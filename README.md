@@ -211,4 +211,4 @@ Contributions welcome! Please read CONTRIBUTING.md for guidelines.
 
 ## 📧 Support
 
-For issues and questions, please open a GitHub issue or contact support@frauddetect.ai
+For issues and questions, please open a GitHub issue or contact work.avinav@gmail.com
