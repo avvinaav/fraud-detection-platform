@@ -61,7 +61,7 @@ export function Navigation() {
           <div className="flex items-center gap-4">
             <div className="text-sm text-right">
               <p className="font-medium">Admin User</p>
-              <p className="text-xs text-muted-foreground">admin@frauddetect.ai</p>
+              <p className="text-xs text-muted-foreground">work.avinav@gmail.com & malikatiwari1407@gmail.com</p>
             </div>
             <div className="w-10 h-10 bg-emerald-500 rounded-full flex items-center justify-center text-white font-semibold">
               A
